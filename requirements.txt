@@ -1,0 +1,2 @@
+pyyaml
+newsapi-python
